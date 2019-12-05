@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01212E</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">@color/colorPrimaryText</color>
+    <color name="colorPrimaryText">#01212E</color>
+    <color name="colorCargamosYellow">#FEB822</color>
+    <color name="colorLightGray">#EFEFEF</color>
+    <color name="colorSecondaryText">#B3B3B3</color>
+
+    <!--Main Colors-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#525252</color>
+    <color name="bone_white">#F1F1F1</color>
+    <color name="dark_gray">#6B6B6B</color>
+    <color name="gray">#BEBEBE</color>
+    <color name="light_gray">#DCDCDC</color>
+    <color name="red">#D60B0B</color>
+    <color name="red_background">#1CD60B0B</color>
+    <color name="green">#2CB74A</color>
+    <color name="light_green">#20D65E</color>
+    <color name="light_green_background">#1B20D65E</color>
+    <color name="colorSecondaryTextServicesItem">#545454</color>
+    <color name="colorFoodOrderItemBackground">#FBFBFB</color>
+    <color name="table_header_gray">#F5F5F5</color>
+    <color name="colorHeaderDispatch">#F6F6F6</color>
+    <color name="defaultBackgroundColor">#FAFAFA</color>
+    <color name="colorCargamosYellowMask">#9AFEB822</color>
+    <color name="colorPrimaryLight">#045272</color>
+</resources>

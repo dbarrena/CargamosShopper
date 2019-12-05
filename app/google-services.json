@@ -1,0 +1,363 @@
+{
+  "project_info": {
+    "project_number": "842594151599",
+    "firebase_url": "https://cargamos-215500.firebaseio.com",
+    "project_id": "cargamos-215500",
+    "storage_bucket": "cargamos-215500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:b0517532745de1a7",
+        "android_client_info": {
+          "package_name": "com.cargamos.cargamosdarkstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-12akvitj66h8uh17vtca8dq4acnr4ule.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosdarkstore",
+            "certificate_hash": "888d7e79731e6862a7323a8ab6e4d476826814a4"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:6d2c4abd06a27f02",
+        "android_client_info": {
+          "package_name": "com.cargamos.cargamosdarkstoredagger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:172d7d23a425d5b4",
+        "android_client_info": {
+          "package_name": "com.cargamos.cargamosdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-92bug4p6bp8vicvvtbho70u653luqc0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosdriver",
+            "certificate_hash": "7d03023fc27d2babb3a8847931ae29a81b9babb2"
+          }
+        },
+        {
+          "client_id": "842594151599-eqe2udivnsurlmvjvdr3bibu40812a3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosdriver",
+            "certificate_hash": "fc220376e2b167ff6d8df17d6004227b3a5ff511"
+          }
+        },
+        {
+          "client_id": "842594151599-l1sf1ij3dq41bqs4a1facvd41qecjbmj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosdriver",
+            "certificate_hash": "888d7e79731e6862a7323a8ab6e4d476826814a4"
+          }
+        },
+        {
+          "client_id": "842594151599-35v94so911s729hm5cjrfn5qsa2vvphe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosdriver",
+            "certificate_hash": "6c3d6c39db4a6e60fb6f6e1b98cf06d3ef2ce169"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:d1b5f892bd63c02f",
+        "android_client_info": {
+          "package_name": "com.cargamos.cargamosshopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-lk0bqvmlk0bt91krgvmtqakok43m39r4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cargamosshopper",
+            "certificate_hash": "7d03023fc27d2babb3a8847931ae29a81b9babb2"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:1661ce296d5b6be9",
+        "android_client_info": {
+          "package_name": "com.cargamos.cdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-bdtk7kdfpogsljfj70rnl4r1gnnm7aqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.cdp",
+            "certificate_hash": "5c45b763992367f710191524ff67db6df3c432c7"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:6fbfa51d7b6f3600",
+        "android_client_info": {
+          "package_name": "com.cargamos.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-7u43o31kmhkn3713bkniqp4k94r85l0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.conductor",
+            "certificate_hash": "46af455e44840eaeec38e860e5380fe68c66c7a9"
+          }
+        },
+        {
+          "client_id": "842594151599-cbhgo40s2btthgg515564bpm82qac0ju.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.conductor",
+            "certificate_hash": "fc6612db8727cb5ce10e6e586929b5c86b8b1e83"
+          }
+        },
+        {
+          "client_id": "842594151599-4kic48tvlel1hs5uegsm1s1uhk18gq68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.conductor",
+            "certificate_hash": "5c45b763992367f710191524ff67db6df3c432c7"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:c16fa5c28a70197f",
+        "android_client_info": {
+          "package_name": "com.cargamos.testing1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842594151599:android:228a6e66ad966281",
+        "android_client_info": {
+          "package_name": "com.cargamos.usuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842594151599-bufkrhe27gj7nppviok4iddr9s8cftab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.usuario",
+            "certificate_hash": "1bbac3ddd4d8fb9b0016af6bf046630258280270"
+          }
+        },
+        {
+          "client_id": "842594151599-o95snddudaclfl0v7fur9b5h1j37tui3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cargamos.usuario",
+            "certificate_hash": "5c45b763992367f710191524ff67db6df3c432c7"
+          }
+        },
+        {
+          "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALVqjjfepmT5kYbolBWuB-NaqUhETE8BQ"
+        },
+        {
+          "current_key": "AIzaSyCIQ8S8vfooaJmm1qt8yqZy_g9emrbh0lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842594151599-na7h1qnptf8fh57t1dckqvrtj9v0sm30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

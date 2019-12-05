@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Toolbar-->
+    <dimen name="action_bar_size">56dp</dimen>
+
+    <!--Text-->
+    <dimen name="text_size_mini">14sp</dimen>
+    <dimen name="text_size_small">15sp</dimen>
+    <dimen name="text_size_big">17sp</dimen>
+
+    <dimen name="service_list_item_disabled_width">90dp</dimen>
+
+    <!-- Ongoing services -->
+    <dimen name="active_service_number_width">29dp</dimen>
+    <dimen name="active_service_number_height">39dp</dimen>
+
+    <dimen name="timeline_active_service_number_width">25dp</dimen>
+    <dimen name="timeline_active_service_number_height">30dp</dimen>
+
+    <!-- Main activity -->
+    <dimen name="first_service_margin">32dp</dimen>
+
+    <!-- Slider -->
+    <dimen name="slider_height">60dp</dimen>
+
+    <dimen name="padding_checkbox">32dp</dimen>
+
+</resources>

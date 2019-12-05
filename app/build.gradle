@@ -1,0 +1,94 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 29
+    defaultConfig {
+        applicationId "com.cargamos.cargamosshopper"
+        minSdkVersion 23
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        debug {
+            buildConfigField "String", "NOTIFICATIONS_FOREGROUND_GROUP", '"com.cargamos.cargamosdriver.NOTIFICATIONS.MAIN"'
+            buildConfigField "String", "NOTIFICATIONS_CHANNEL_ID", '"cargamos_channel_00"'
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+            buildConfigField "String", "NOTIFICATIONS_FOREGROUND_GROUP", '"com.cargamos.cargamosdriver.NOTIFICATIONS.MAIN"'
+            buildConfigField "String", "NOTIFICATIONS_CHANNEL_ID", '"cargamos_channel_00"'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = '1.8'
+        targetCompatibility = '1.8'
+    }
+}
+
+dependencies {
+    //firebase
+    implementation 'com.google.firebase:firebase-core:17.0.1'
+    implementation "com.google.firebase:firebase-firestore:20.2.0"
+    implementation "com.google.firebase:firebase-auth:18.1.0"
+    implementation "com.google.firebase:firebase-messaging:19.0.1"
+    //retrofit 2 (restful)
+    implementation "com.squareup.retrofit2:retrofit:2.4.0"
+    implementation 'com.squareup.okio:okio:1.14.0'
+    //Timber
+    implementation "com.jakewharton.timber:timber:4.7.1"
+    // dependency injection
+    implementation "com.google.dagger:dagger:2.23.1"
+    implementation "com.google.dagger:dagger-android:2.23.1"
+    implementation "com.google.dagger:dagger-android-support:2.23.1"
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    kapt "com.google.dagger:dagger-compiler:2.23.1"
+    kapt "com.google.dagger:dagger-android-processor:2.23.1"
+    //Easy prefs
+    implementation 'com.pixplicity.easyprefs:library:1.9.0'
+    //retrofit 2 (restful)
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
+    implementation "com.squareup.retrofit2:converter-gson:2.4.0"
+    implementation 'com.squareup.moshi:moshi:1.5.0'
+    implementation "com.squareup.retrofit2:converter-moshi:2.4.0"
+    //Slide to act
+    implementation 'com.ncorti:slidetoact:0.7.0'
+    //architecture
+    implementation "androidx.lifecycle:lifecycle-extensions:2.0.0"
+    //bottom nav bar
+    implementation 'com.aurelhubert:ahbottomnavigation:2.3.4'
+    //Number Picker
+    implementation 'com.github.travijuu:numberpicker:1.0.7'
+
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.1.0-beta01'
+    implementation 'androidx.core:core-ktx:1.2.0-alpha02'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0-alpha06'
+    implementation 'com.google.android.material:material:1.1.0-alpha07'
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+
+    implementation 'com.google.android.gms:play-services-location:17.0.0'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.3.0-alpha01'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0-alpha01'
+}
+
+apply plugin: 'com.google.gms.google-services'
